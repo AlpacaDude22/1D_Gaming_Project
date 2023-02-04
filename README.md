@@ -1,30 +1,43 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Dom Meoli, Computer Engineering Student (2025)
+djmeoli3@vt.edu
+
+Raymond Drewry, Electrical Engineering Student (2025)
+drewryrj29@gmail.com
 
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+
 
 ## Photo
-{% include youtube.html video="miltuOLWDFQ" %}
+
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
+Mentor Needed
 
 ## Current Status
-Complete
+Intializing
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+We plan to create a one dimensional LED dueling game. In this game, players will compete in timing based activities to score points against the opponent by manipulating a line of LEDs via user inputs.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Over the course of this project we hope to develop the following skills.
+    -Learning how to address individual devices through minimal input/outputs.
+    -Learning about different LEDs and LED arrays and how LED displays in the real world operate.
+    -Become familar with arduino IDE and the microcontroller's limitations.
+    -Troubleshooting timing delays with user inputs and the game's outputs.
+    -Working through a real world design processs by attempting to create a consumer product.
 
 ## Tasks
 
-<!-- Your Text Here. See Example above -->
+1. Addressing and communicating with each individual LED.
+2. Provide proper power to all LEDs and Arduino.
+3. Test input devices (i.e. buttons, joysticks) with LEDs using Arduino.
+4. Program game and perform test.
+5. Enhancing functionality, adding misc. features.
+6. Build a case adept to consumer needs.
 
 ## Design Decisions
 
@@ -36,20 +49,25 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. See Example above -->
+1. Both members will keep and update an engineering notebook on Google Docs.
+2. We will provide very short reports after each task.
+3. Major milestone videos on YouTube.
+4. Final product report and video.
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. See Example above -->
+TBD
 
 ## Timeline
 
-<!-- Your Text Here. See Example above -->
+Dates and milestones are TBD.
+Goal: Have working game by the end of the semester
 
 ## Useful Links
 
-<!-- Your Text Here. See Example above -->
+Below is a link to a video of a project that is similar.
+https://youtu.be/rRKfxGCinxk
 
 ## Log
 
-<!-- Your Text Here. See Example above -->
+2/4/2023 - created this repo and submitted project for approval
